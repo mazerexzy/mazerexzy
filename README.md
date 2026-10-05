@@ -40,7 +40,7 @@ I take orders directly. Message me on Telegram with your idea and I'll tell you 
   </tr>
 </table>
 
-**Narodniy Prognozist**. A Telegram bot for match prediction tournaments with sign-up, 1/X/2 picks, a leaderboard, a tournament archive and an admin panel. Made to order, closed source.
+**[Narodniy Prognozist](https://github.com/mazerexzy/narodniy-prognozist)**. A Telegram bot for match prediction tournaments with sign-up, 1/X/2 picks, a leaderboard, a tournament archive and an admin panel. Made to order.
 
 ---
 
@@ -86,6 +86,6 @@ I take orders directly. Message me on Telegram with your idea and I'll tell you 
   </tr>
 </table>
 
-**Народный прогнозист**. Telegram бот для турнира прогнозов на матчи с регистрацией, ставками П1/Х/П2, рейтингом, архивом турниров и админкой. Делал на заказ, код закрыт.
+**[Народный прогнозист](https://github.com/mazerexzy/narodniy-prognozist)**. Telegram бот для турнира прогнозов на матчи с регистрацией, ставками П1/Х/П2, рейтингом, архивом турниров и админкой. Делал на заказ.
 
 </details>
